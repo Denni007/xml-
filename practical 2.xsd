@@ -1,0 +1,12 @@
+<xs:element name="student">
+
+<xs:complexType>
+  <xs:sequence>
+    <xs:element name="enroallment" type="xs:string"/>
+    <xs:element name="name" type="xs:string"/>
+    <xs:element name="email" type="xs:string"/>
+    <xs:element name="gender" type="xs:string"/>
+  </xs:sequence>
+</xs:complexType>
+
+</xs:element>

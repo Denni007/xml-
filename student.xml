@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE student SYSTEM "practical 1.dtd">
+<student>
+  <enroallment>1620BEIT30007</enroallment>
+  <name>Denny</name>
+  <email>kukadiyadenish@gmail.com</email>
+  <gender>male</gender>
+</student>
